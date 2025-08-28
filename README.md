@@ -10,4 +10,4 @@ _- Tenha o .NET SDK instalado em sua máquina (versão 6 ou superior recomendada
 
 _- Clone este repositório:_  
 ```bash
-git clone https://github.com/seu-usuario/calculadora-imc.git
+git clone https://github.com/henriquevieiradasilva/calculadora-imc.git
