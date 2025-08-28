@@ -9,5 +9,7 @@
 _- Tenha o .NET SDK instalado em sua máquina (versão 6 ou superior recomendada)._  
 
 _- Clone este repositório:_  
-```bash
-git clone https://github.com/henriquevieiradasilva/calculadora-imc.git
+
+_git clone [https://github.com/henriquevieiradasilva/calculadora-imc.git](https://github.com/henriquevieiradasilva/CalculadoraIMC.git)_
+
+_- Ou então faça o download do arquivo ZIP desse repositório com todo o projeto!_  
